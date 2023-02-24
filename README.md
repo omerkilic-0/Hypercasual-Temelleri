@@ -17,7 +17,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
     Önemli noktalar:  arka plan, zorluk, uzunluk, hız değişir fakat oyun aynı oyundur ve tekrar tekrar oynanır. 
 - Ah burda yanmazdım aslında hissi uyandurır.
 
-# Casul Nedir?
+# Casul Nedir? 
 
 - Oyun daha karmaşık.
 - Level daha uzun ve vadeli.
@@ -26,7 +26,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Oyun içi alım olur.
 - Reklamdan daha çok oyun içi alım odaklıdır.
 
-#Hypercasual’ ın Önemli Noktaları
+# Hypercasual’ ın Önemli Noktaları
 
 - Hypercasual Oyun
 - Top 100
@@ -48,7 +48,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
     
 # Ekipler Ve Roller
     
-    - Ürün Yöneticisi
+- Ürün Yöneticisi
     - Patron diğer firmalar ile anlaşmalar yapar.
     - Ön planda olur.
 - Proje Yöneticisi
@@ -67,7 +67,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Yayıncılar
     - (Partner) Verilerini paylaşırlar.
     
-#Mekanikler
+# Mekanikler
     
 ## 1. Ana Mekanik
 
@@ -79,57 +79,57 @@ Paraları topla, engellerden kaç, objeleri topla, biriktir ve mağazadan birşe
 
 ## Popüler Mekanikler
 
-**Stac-Consume                             Puzzle**
-
-**Merging                                      Pushing**
-
-**Transformation                           Color-Matching**
-
-**Shooting                                     Growing**
-
-**Dextering                                    Choosing**
-
-**Timing                                         Rising-Falling**
-
-**Direction                                      Swerving**
-
-**Slice**
+1. Stac-Consume
+2. Puzzle
+3. Merging
+4. Pushing
+5. Transformation
+6. Color-Matching
+7. Shooting
+8. Growing
+9. Dextering
+10. Choosing
+11. Timing
+12. Rising-Falling
+13. Direction
+14. Swerving
+15. Slice
 
 # Sanat
 
-- a) UI
+## a) UI
     - Basit anlaşılır.
     - Oyun içi UI alışkanlıklar ve kolaylıklardır.
-- b) Karakter
+## b) Karakter
     Modeller, Renker, Animasyonlar, Dinamik.
-> Hypercasual oyunlar dikkati karaktere çekmek ister bu yüzden arka plan olabildiğince sade olur.
-- c) Animasyonlar
+Hypercasual oyunlar dikkati karaktere çekmek ister bu yüzden arka plan olabildiğince sade olur.
+## c) Animasyonlar
     - Basit olmalı deyip geçmemeliyiz
     
 # Araştırma Ve Analiz
 
-- 1- Mekanik
+## 1- Mekanik
     a) Ana Mekanik
     b) Ana Döngü
-- 2- Sanat
+## 2- Sanat
     a) Renkler
     b) Çevre
     c) UI
     d) Sahne Düzeni
-- 3- Trendler
+## 3- Trendler
     a) Ragdoll Mekaniği
     b) Basketbol
     
 # Üretim Süreci
 
-- a) Üretim Süreci
+## a) Üretim Süreci
     - Şablon oluşturulur.
     - Herşeyden onlarca fikir çıkartılıp inanılan bir projeyi haftalar içerisinde geliştirip yayınlamaktır.
-- b) Dökümantasyon
+## b) Dökümantasyon
     - Proje detay ve içeriklerini yazıya dökmek ve tüm üyeleri tekbir noktada buluşturmaktır.
     - Özenli ve dikkatli yapıldığında projeye katkı sağlar.
     - Yanlış yapıldığında ise projeyi yavaşlatıp emek kaybına yol açar.
-- c) Üretim
+## c) Üretim
     - 2 ve 3 hafta içerisinde oyun üretilebilir.
     - Trendleri takip etmek kaçırmamak önemli.
     - Prototip yapılmalı ve güzel görülmeli.
@@ -143,14 +143,14 @@ Paraları topla, engellerden kaç, objeleri topla, biriktir ve mağazadan birşe
 - İterasyon ve geliştirme
 - Canlı operasyonlar(Live Ops)
     
-#yazar  :
+# yazar  :
   
-  Ömer Kılıç
+  **Ömer Kılıç**
  
 #  Yayınlanma Tarihi:
   
-  24.02.2023
+  **24.02.2023**
   
 #  Yazar İletişim/Bilgi/Özgeçmiş:
   
-  http://omerkilic.rf.gd/
+  **http://omerkilic.rf.gd/**
