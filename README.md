@@ -73,7 +73,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 
 - Y’ ye sebep olmadan X’i başar.
 
-##5.2 Ana Döngü
+## 5.2 Ana Döngü
 
 Paraları topla, engellerden kaç, objeleri topla, biriktir ve mağazadan birşeyler al.
 
@@ -97,13 +97,13 @@ Paraları topla, engellerden kaç, objeleri topla, biriktir ve mağazadan birşe
 
 # 6. Sanat
 
-## 6.1 a) UI
+## 6.1 UI
     - Basit anlaşılır.
     - Oyun içi UI alışkanlıklar ve kolaylıklardır.
-## 6.2 b) Karakter
+## 6.2 Karakter
     Modeller, Renker, Animasyonlar, Dinamik.
 Hypercasual oyunlar dikkati karaktere çekmek ister bu yüzden arka plan olabildiğince sade olur.
-## 6.3 c) Animasyonlar
+## 6.3 Animasyonlar
     - Basit olmalı deyip geçmemeliyiz
     
 # 7. Araştırma Ve Analiz
@@ -122,14 +122,14 @@ Hypercasual oyunlar dikkati karaktere çekmek ister bu yüzden arka plan olabild
     
 # 8. Üretim Süreci
 
-## a) Üretim Süreci
+## 8.1 Üretim Süreci
     - Şablon oluşturulur.
     - Herşeyden onlarca fikir çıkartılıp inanılan bir projeyi haftalar içerisinde geliştirip yayınlamaktır.
-## b) Dökümantasyon
+## 8.2 Dökümantasyon
     - Proje detay ve içeriklerini yazıya dökmek ve tüm üyeleri tekbir noktada buluşturmaktır.
     - Özenli ve dikkatli yapıldığında projeye katkı sağlar.
     - Yanlış yapıldığında ise projeyi yavaşlatıp emek kaybına yol açar.
-## c) Üretim
+## 8.3 Üretim
     - 2 ve 3 hafta içerisinde oyun üretilebilir.
     - Trendleri takip etmek kaçırmamak önemli.
     - Prototip yapılmalı ve güzel görülmeli.
