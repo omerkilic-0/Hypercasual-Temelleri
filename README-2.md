@@ -6,11 +6,11 @@ Hypercasual oyunların başarısı, genellikle kullanıcının ilgisini hızlı 
 
 ## Hypercasual oyunların ana özellikleri şunlardır:
 
-- Basit ve minimal tasarım: Bu oyunlar genellikle çok basit bir tasarıma sahiptir. Grafikler ve arayüzler genellikle minimalist ve basittir. Bu tasarım öğeleri, oyunların yüksek hızda yüklenmesini ve hızlı bir şekilde oynanmasını sağlar.
-- Tek dokunuşlu oynanabilirlik: Hypercasual oyunların oynanışı genellikle çok basittir ve genellikle tek bir dokunuşla oynanabilirler. Bu, kullanıcının oyunu hızlı ve kolay bir şekilde öğrenmesini ve oynamasını sağlar.
-- Hızlı ve yoğun oyun süreci: Hypercasual oyunlar genellikle hızlı ve yoğun bir oyun sürecine sahiptir. Bu, kullanıcının dikkatini çekmek ve oyunun heyecanını artırmak için yapılır.
--  Yüksek tekrar edilebilirlik: Hypercasual oyunlar, tekrar edilebilir olması için tasarlanmıştır. Bu, kullanıcının oyunu sürekli olarak oynamasını ve yüksek skorlar elde etmeye çalışmasını sağlar.
--  Reklamlara dayalı iş modeli: Hypercasual oyunlar, genellikle reklamlara dayalı bir iş modeline sahiptir. Oyun geliştiricileri, oyunun ücretsiz indirilmesine izin verirler, ancak reklamları görüntülemek için kullanıcılara ödüller verirler.
+- **Basit ve minimal tasarım:** Bu oyunlar genellikle çok basit bir tasarıma sahiptir. Grafikler ve arayüzler genellikle minimalist ve basittir. Bu tasarım öğeleri, oyunların yüksek hızda yüklenmesini ve hızlı bir şekilde oynanmasını sağlar.
+- **Tek dokunuşlu oynanabilirlik:** Hypercasual oyunların oynanışı genellikle çok basittir ve genellikle tek bir dokunuşla oynanabilirler. Bu, kullanıcının oyunu hızlı ve kolay bir şekilde öğrenmesini ve oynamasını sağlar.
+- **Hızlı ve yoğun oyun süreci:** Hypercasual oyunlar genellikle hızlı ve yoğun bir oyun sürecine sahiptir. Bu, kullanıcının dikkatini çekmek ve oyunun heyecanını artırmak için yapılır.
+-  **Yüksek tekrar edilebilirlik:** Hypercasual oyunlar, tekrar edilebilir olması için tasarlanmıştır. Bu, kullanıcının oyunu sürekli olarak oynamasını ve yüksek skorlar elde etmeye çalışmasını sağlar.
+-  **Reklamlara dayalı iş modeli:** Hypercasual oyunlar, genellikle reklamlara dayalı bir iş modeline sahiptir. Oyun geliştiricileri, oyunun ücretsiz indirilmesine izin verirler, ancak reklamları görüntülemek için kullanıcılara ödüller verirler.
 
 Hypercasual oyunlar, birçok alt türü içerir ve her biri farklı özelliklere sahiptir. Bazı popüler alt türler arasında "runner" türü oyunlar, "tap to jump" türü oyunlar, "slingshot" türü oyunlar ve "match-3" türü oyunlar bulunur.
 	Sonuç olarak, Hypercasual oyunlar, basit tasarımı, hızlı oyunlardır.
