@@ -4,7 +4,8 @@ Hypercasual oyunlar son yılların en popüler oyun türlerinden biridir. Bu oyu
 
 Hypercasual oyunların başarısı, genellikle kullanıcının ilgisini hızlı bir şekilde çekmesi ve tutarlı bir şekilde tutabilmesi nedeniyle hızla artmıştır. Bu oyunlar, mobil oyun pazarındaki en başarılı oyunların birçoğunu oluşturur ve yüksek gelir elde ederler. Bu nedenle, birçok oyun geliştiricisi, oyunlarını Hypercasual türüne dönüştürmeye çalışır.
 
-Hypercasual oyunların ana özellikleri şunlardır:
+## Hypercasual oyunların ana özellikleri şunlardır:
+
 - Basit ve minimal tasarım: Bu oyunlar genellikle çok basit bir tasarıma sahiptir. Grafikler ve arayüzler genellikle minimalist ve basittir. Bu tasarım öğeleri, oyunların yüksek hızda yüklenmesini ve hızlı bir şekilde oynanmasını sağlar.
 - Tek dokunuşlu oynanabilirlik: Hypercasual oyunların oynanışı genellikle çok basittir ve genellikle tek bir dokunuşla oynanabilirler. Bu, kullanıcının oyunu hızlı ve kolay bir şekilde öğrenmesini ve oynamasını sağlar.
 - Hızlı ve yoğun oyun süreci: Hypercasual oyunlar genellikle hızlı ve yoğun bir oyun sürecine sahiptir. Bu, kullanıcının dikkatini çekmek ve oyunun heyecanını artırmak için yapılır.
@@ -35,7 +36,8 @@ Ayrıca, hypercasual oyunların erişilebilirliği de diğer faktörlerden birid
 
 Hypercasual oyun tasarımı, basitlik, kolay erişilebilirlik ve hız gibi belirli tasarım ilkelerine dayanır. Bu oyunlar, çok hızlı bir şekilde öğrenilebilir ve hemen oynanmaya başlanabilir, oyuncuların çoğu da oynamak için sadece birkaç dakikalarını ayırırlar. Bu nedenle, tasarımcılar, oyuncuların hemen oyunun içine girmelerine yardımcı olmak için basitlik, kolay erişilebilirlik ve hız gibi özellikleri göz önünde bulundururlar.
 
-İşte hypercasual oyun tasarımının anahtar özellikleri:
+## İşte hypercasual oyun tasarımının anahtar özellikleri:
+
 ## 1. Basitlik: 
 Hypercasual oyunlar, basit ve kolay anlaşılır bir oynanışa sahiptir. Oyuncuların oyunu hemen anlayıp oynamaya başlamaları için gerekli olan kontroller minimum düzeyde tutulur. Böylece, oyunun zorluğu yükseldikçe oyuncular, daha da karmaşık hale gelmeden, öğrenmelerine ve başarılı olmalarına devam edebilirler.
 
